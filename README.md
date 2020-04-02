@@ -4,6 +4,10 @@
 
 >[Brief description - what value does this software provide? How often should users expect to get releases? How is versioning set up? Where does this project want to go?]
 
+# Agenda
+
+>[Brief description]
+
 | Subject | Material |
 |---|---|
 | **Programmability Overview & Concepts** | |
