@@ -9,10 +9,10 @@
 | **Programmability Overview & Concepts** | |
 | New Relic One: A Programmable Platform | [Slides](https://docs.google.com/presentation/d/1R2UmaFfSZpYRk94vP0yqecGsNjnBP5ohOInN8XrVwU0/edit?usp=sharing) |
 | Getting Started w/ Programmability  | [Slides](https://docs.google.com/presentation/d/1qWar9oum_4fSCCMMRONbvkA6E1cmXlNzw9euNmOrm4o/edit?usp=sharing) |
-| **Workshop** | |
+| **Workshop & Tutorials** | |
 | Programmability Workshop | [Workshop](https://github.com/newrelic/nr1-workshop) |
+| How to articles | [Github Repo](https://github.com/newrelic/nr1-how-to) |
 | **Learning Resources** | |
 | Developer Website | [Website](https://developer.newrelic.com/) |
 | Developer Edition | [Sign Up](https://newrelic.com/signup?partner=Developer+Edition) |
 | API Docs | [Website](https://developer.newrelic.com/client-side-sdk/index.html#components/AutoSizer) |
-| How to articles | [Github Repo](https://github.com/newrelic/nr1-how-to) |
